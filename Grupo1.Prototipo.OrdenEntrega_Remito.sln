@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grupo1.Prototipo.OrdenEntrega_Remito", "Grupo1.Prototipo.OrdenEntrega_Remito.csproj", "{4ACD1289-0059-4198-88BC-B1065C7D7C4F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orden de entrega", "Orden de entrega", "{1B47D253-E29A-42A2-A2F3-CE3EABE3E083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ACD1289-0059-4198-88BC-B1065C7D7C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACD1289-0059-4198-88BC-B1065C7D7C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACD1289-0059-4198-88BC-B1065C7D7C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACD1289-0059-4198-88BC-B1065C7D7C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4ACD1289-0059-4198-88BC-B1065C7D7C4F} = {1B47D253-E29A-42A2-A2F3-CE3EABE3E083}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAAA3446-8B1E-4410-8C65-BA01521EFDB3}
+	EndGlobalSection
+EndGlobal
