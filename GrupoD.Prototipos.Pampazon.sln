@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grupo1.Prototipo.OrdenEntrega_Remito", "Grupo1.Prototipo.OrdenEntrega_Remito.csproj", "{4ACD1289-0059-4198-88BC-B1065C7D7C4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrupoD.Prototipos.Pampazon", "GrupoD.Prototipos.Pampazon.csproj", "{4ACD1289-0059-4198-88BC-B1065C7D7C4F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Orden de entrega", "Orden de entrega", "{1B47D253-E29A-42A2-A2F3-CE3EABE3E083}"
 EndProject

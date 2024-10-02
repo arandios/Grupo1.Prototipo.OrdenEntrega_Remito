@@ -43,7 +43,7 @@
             button1.Name = "button1";
             button1.Size = new Size(327, 40);
             button1.TabIndex = 0;
-            button1.Text = "1. Cargar Órden de Preparación";
+            button1.Text = "1. ";
             button1.UseVisualStyleBackColor = true;
             // 
             // TituloMenuPrincipal
@@ -61,7 +61,7 @@
             button2.Name = "button2";
             button2.Size = new Size(327, 40);
             button2.TabIndex = 2;
-            button2.Text = "3. Confirmar Órden de Selección";
+            button2.Text = "3. ";
             button2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -72,7 +72,6 @@
             button3.TabIndex = 3;
             button3.Text = "2. Generar Órden de Selección";
             button3.UseVisualStyleBackColor = true;
-            button3.Click += this.button3_Click;
             // 
             // button4
             // 

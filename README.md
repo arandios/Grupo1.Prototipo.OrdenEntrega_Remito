@@ -1,8 +1,8 @@
-Construcción Aplicaciones Informaticas - UBA FCE.
+Construcción Aplicaciones Informaticas - UBA FCE.  
 Trabajo Practico PAMPAZÓN S.A.  
 GRUPO D
 
-Integrantes:
+Integrantes:  
 164276 Ana Rojas  
 885627 Lucas Burgos Montesano  
 899219 Sampietro Tomás Ignacio  
