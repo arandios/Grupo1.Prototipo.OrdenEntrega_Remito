@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Grupo1.Prototipo.OrdenEntrega_Remito
+namespace GrupoD.Prototipos.Pampazon
 {
-    public partial class OrdenDeSeleccion : Form
+    public partial class MenuInicialForm : Form
     {
-        public OrdenDeSeleccion()
+        public MenuInicialForm()
         {
             InitializeComponent();
         }

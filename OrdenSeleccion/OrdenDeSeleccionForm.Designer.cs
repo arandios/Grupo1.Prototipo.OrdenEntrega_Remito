@@ -1,6 +1,6 @@
-﻿namespace Grupo1.Prototipo.OrdenEntrega_Remito
+﻿namespace GrupoD.Prototipos.Pampazon
 {
-    partial class OrdenDeSeleccion
+    partial class OrdenDeSeleccionForm: Form
     {
         /// <summary>
         /// Required designer variable.

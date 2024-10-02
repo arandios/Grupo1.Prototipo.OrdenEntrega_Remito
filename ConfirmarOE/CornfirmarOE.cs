@@ -1,5 +1,5 @@
-namespace Grupo1.Prototipo.OrdenEntrega_Remito
-{
+namespace GrupoD.Prototipos.Pampazon;
+
     public partial class CornfirmarOE : Form
     {
         public CornfirmarOE()
@@ -12,4 +12,4 @@ namespace Grupo1.Prototipo.OrdenEntrega_Remito
 
         }
     }
-}
+

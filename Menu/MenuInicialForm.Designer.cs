@@ -1,6 +1,6 @@
-﻿namespace Grupo1.Prototipo.OrdenEntrega_Remito
+﻿namespace GrupoD.Prototipos.Pampazon
 {
-    partial class MenuInicial
+    partial class MenuInicialForm
     {
         /// <summary>
         /// Required designer variable.

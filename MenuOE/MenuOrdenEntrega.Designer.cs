@@ -34,29 +34,32 @@
             // 
             // ConfirmarOEBTN
             // 
-            ConfirmarOEBTN.Location = new Point(45, 36);
+            ConfirmarOEBTN.Location = new Point(51, 48);
+            ConfirmarOEBTN.Margin = new Padding(3, 4, 3, 4);
             ConfirmarOEBTN.Name = "ConfirmarOEBTN";
-            ConfirmarOEBTN.Size = new Size(170, 23);
+            ConfirmarOEBTN.Size = new Size(194, 31);
             ConfirmarOEBTN.TabIndex = 0;
             ConfirmarOEBTN.Text = "Confirmar Orden de Entrega";
             ConfirmarOEBTN.UseVisualStyleBackColor = true;
             // 
             // GenerarOEBTN
             // 
-            GenerarOEBTN.Location = new Point(45, 65);
+            GenerarOEBTN.Location = new Point(51, 87);
+            GenerarOEBTN.Margin = new Padding(3, 4, 3, 4);
             GenerarOEBTN.Name = "GenerarOEBTN";
-            GenerarOEBTN.Size = new Size(170, 23);
+            GenerarOEBTN.Size = new Size(194, 31);
             GenerarOEBTN.TabIndex = 1;
             GenerarOEBTN.Text = "Generar Orden de Entrega";
             GenerarOEBTN.UseVisualStyleBackColor = true;
             // 
             // MenuOrdenEntrega
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(258, 120);
+            ClientSize = new Size(341, 160);
             Controls.Add(GenerarOEBTN);
             Controls.Add(ConfirmarOEBTN);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "MenuOrdenEntrega";
             Text = "MenuOrdenEntrega";
             ResumeLayout(false);

@@ -1,6 +1,6 @@
-﻿namespace Grupo1.Prototipo.OrdenEntrega_Remito
+﻿namespace GrupoD.Prototipos.Pampazon
 {
-    partial class CornfirmarOE
+    partial class CornfirmarOE : Form
     {
         /// <summary>
         ///  Required designer variable.
@@ -93,7 +93,6 @@
             label2.Size = new Size(179, 15);
             label2.TabIndex = 4;
             label2.Text = "Ordenes de entrega confirmadas";
-            label2.Click += label2_Click;
             // 
             // listBox1
             // 

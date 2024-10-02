@@ -1,4 +1,4 @@
-namespace Grupo1.Prototipo.OrdenEntrega_Remito
+namespace GrupoD.Prototipos.Pampazon
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace Grupo1.Prototipo.OrdenEntrega_Remito
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new CornfirmarOE());
+            Application.Run(new MenuInicialForm());
         }
     }
 }
