@@ -37,7 +37,7 @@
             ConfirmarOEBTN.Location = new Point(51, 48);
             ConfirmarOEBTN.Margin = new Padding(3, 4, 3, 4);
             ConfirmarOEBTN.Name = "ConfirmarOEBTN";
-            ConfirmarOEBTN.Size = new Size(194, 31);
+            ConfirmarOEBTN.Size = new Size(240, 31);
             ConfirmarOEBTN.TabIndex = 0;
             ConfirmarOEBTN.Text = "Confirmar Orden de Entrega";
             ConfirmarOEBTN.UseVisualStyleBackColor = true;
@@ -47,7 +47,7 @@
             GenerarOEBTN.Location = new Point(51, 87);
             GenerarOEBTN.Margin = new Padding(3, 4, 3, 4);
             GenerarOEBTN.Name = "GenerarOEBTN";
-            GenerarOEBTN.Size = new Size(194, 31);
+            GenerarOEBTN.Size = new Size(240, 31);
             GenerarOEBTN.TabIndex = 1;
             GenerarOEBTN.Text = "Generar Orden de Entrega";
             GenerarOEBTN.UseVisualStyleBackColor = true;
